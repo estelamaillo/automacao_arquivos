@@ -18,14 +18,14 @@ Este projeto fornece um script simples em Python para automatizar a criação de
    ```bash
    git clone https://github.com/estelamaillo/automacao_arquivos.git
 
-2. Abra o arquivo Python (ex: `criar_subpastas.py`) e edite:
+2. Abra o arquivo Python (ex: `nova_subpasta.py`) e edite:
 
    - O caminho da variável `pasta_principal`
    - O nome da subpasta que deseja criar (ex: `projetos`)
 
 3. Execute o script:
     ```bash
-   python criar_subpastas.py
+   python nova_subpasta.py
 
 ## Contribuições
 
